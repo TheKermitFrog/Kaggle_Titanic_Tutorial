@@ -1,4 +1,4 @@
-# ck - A Spotify Collaborative Playlist Web Application with Python and Django
+# Titanic - How EDA Helps You Gets High Scores
 
 > Python, Numpy, Pandas, Scikit-Learn
 > Data Leakage, EDA, Feature Engineering, Machine Learning, Class Imbalance, Missing Value Imputation
